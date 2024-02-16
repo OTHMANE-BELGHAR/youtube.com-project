@@ -1,0 +1,35 @@
+.pic-1{
+  width: 100%;
+}
+.channel-1{
+  border-radius: 40px;
+  width: 40px;
+}
+.para{
+  width: 180px;
+  font-size: 14px;
+}
+.cha-pa{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  margin-top: 16px;
+}
+.author,.v-t{
+  color: gray;
+  font-size: 13px;
+  padding-left: 50px;
+}
+.alll{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items:flex-end;
+  flex-wrap: wrap;
+  order: 3;
+  row-gap: 100px;
+  column-gap: 30px;
+}
+.oo{
+  max-width: 300px;
+  flex: 1;
+}
